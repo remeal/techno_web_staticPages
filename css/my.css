@@ -146,3 +146,6 @@ input[type="checkbox"]:checked ~ .checkbox__icon{
 .custom-file-label{
     margin-left: 15px;
 }
+footer{
+    height: 250px;
+}
